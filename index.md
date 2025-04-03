@@ -13,11 +13,14 @@ Hi! I'm __Max Kim__, a Computer Science student at the University of California,
 
 ## Education
 ### Academic History
-| Year            | Degree                                | Institution                         |
-|-----------------|---------------------------------------|-------------------------------------|
-| 2021-2022, 2025~| BS in Computer Science                | University of California - San Diego|
-| 2019-2021       | Associate Degree in Computer Science  | Diablo Valley College               |
-| 2016-2019       | High School                           | Sangsan High School                 |
+- **BS in Computer Science** *(2021-2022, 2025~)*  
+  *University of California, San Diego*  
+
+- **Associate Degree in Computer Science** *(2019-2021)*  
+  *Diablo Valley College*  
+
+- **High School Diploma** *(2016-2019)*  
+  *Sangsan High School*  
 
 ## Skills
 ### Programming Languages:
